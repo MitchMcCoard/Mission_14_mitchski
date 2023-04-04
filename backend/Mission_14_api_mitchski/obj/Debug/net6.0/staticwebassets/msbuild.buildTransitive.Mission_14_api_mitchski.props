@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Mission_14_api_mitchski.props" />
+</Project>
