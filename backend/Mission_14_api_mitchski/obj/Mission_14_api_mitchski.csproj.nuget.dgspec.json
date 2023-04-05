@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mitch\\source\\repos\\Mission_13_mitchski\\project\\backend\\Mission_14_api_mitchski\\Mission_14_api_mitchski.csproj": {}
+    "C:\\Users\\mitch\\source\\repos\\Mission_14_mitchski\\backend\\Mission_14_api_mitchski\\Mission_14_api_mitchski.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mitch\\source\\repos\\Mission_13_mitchski\\project\\backend\\Mission_14_api_mitchski\\Mission_14_api_mitchski.csproj": {
+    "C:\\Users\\mitch\\source\\repos\\Mission_14_mitchski\\backend\\Mission_14_api_mitchski\\Mission_14_api_mitchski.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mitch\\source\\repos\\Mission_13_mitchski\\project\\backend\\Mission_14_api_mitchski\\Mission_14_api_mitchski.csproj",
+        "projectUniqueName": "C:\\Users\\mitch\\source\\repos\\Mission_14_mitchski\\backend\\Mission_14_api_mitchski\\Mission_14_api_mitchski.csproj",
         "projectName": "Mission_14_api_mitchski",
-        "projectPath": "C:\\Users\\mitch\\source\\repos\\Mission_13_mitchski\\project\\backend\\Mission_14_api_mitchski\\Mission_14_api_mitchski.csproj",
+        "projectPath": "C:\\Users\\mitch\\source\\repos\\Mission_14_mitchski\\backend\\Mission_14_api_mitchski\\Mission_14_api_mitchski.csproj",
         "packagesPath": "C:\\Users\\mitch\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mitch\\source\\repos\\Mission_13_mitchski\\project\\backend\\Mission_14_api_mitchski\\obj\\",
+        "outputPath": "C:\\Users\\mitch\\source\\repos\\Mission_14_mitchski\\backend\\Mission_14_api_mitchski\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mitch\\AppData\\Roaming\\NuGet\\NuGet.Config",

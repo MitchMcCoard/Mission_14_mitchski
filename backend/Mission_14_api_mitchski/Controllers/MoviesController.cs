@@ -20,7 +20,10 @@ namespace Mission_14_api_mitchski.Controllers   /////// I tried this one
         [HttpGet]
         public IEnumerable<Movie> Get()
         {
-            var editedMovies = context.Movies.Where(x => x.Edited.ToLower() == "Yes".ToLower()).ToArray();
+            var editedMovies = context.Movies
+                .Where(x => x.Edited.ToLower() == "Yes".ToLower())
+                .OrderBy(x => x.Title)
+                .ToArray();
             //var editedMovies = context.Movies.ToArray();
             return editedMovies;
         }
